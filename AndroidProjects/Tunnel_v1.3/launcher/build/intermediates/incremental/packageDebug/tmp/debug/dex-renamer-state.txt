@@ -1,0 +1,4 @@
+#Wed Jul 13 12:33:18 EAT 2022
+base.0=E\:\\Unity\\ScaronPictures\\Tunnel\\AndroidProjects\\Tunnel_v1.3\\launcher\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

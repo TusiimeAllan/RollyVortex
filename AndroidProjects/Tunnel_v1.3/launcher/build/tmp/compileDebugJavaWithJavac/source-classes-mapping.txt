@@ -1,0 +1,2 @@
+com/DefaultCompany/Tunnel/BuildConfig.java
+ com.DefaultCompany.Tunnel.BuildConfig

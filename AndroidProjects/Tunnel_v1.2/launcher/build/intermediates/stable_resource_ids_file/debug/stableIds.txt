@@ -1,0 +1,10 @@
+com.DefaultCompany.Tunnel:style/UnityThemeSelector.Translucent = 0x7f040002
+com.DefaultCompany.Tunnel:string/app_name = 0x7f030000
+com.DefaultCompany.Tunnel:string/game_view_content_description = 0x7f030001
+com.DefaultCompany.Tunnel:mipmap/ic_launcher_foreground = 0x7f020003
+com.DefaultCompany.Tunnel:style/BaseUnityTheme = 0x7f040000
+com.DefaultCompany.Tunnel:mipmap/ic_launcher_background = 0x7f020002
+com.DefaultCompany.Tunnel:id/unitySurfaceView = 0x7f010000
+com.DefaultCompany.Tunnel:mipmap/app_icon_round = 0x7f020001
+com.DefaultCompany.Tunnel:style/UnityThemeSelector = 0x7f040001
+com.DefaultCompany.Tunnel:mipmap/app_icon = 0x7f020000
